@@ -29,8 +29,8 @@ classifiers = [
 llm-compress = "context_compressor:_cli"
 
 [project.urls]
-Homepage = "https://github.com/barszcz/llm-context-compressor"
-Issues = "https://github.com/barszcz/llm-context-compressor/issues"
+Homepage = "https://github.com/lmxmxs/llm-context-compressor"
+Issues = "https://github.com/lmxmxs/llm-context-compressor/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

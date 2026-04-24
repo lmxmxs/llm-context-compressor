@@ -28,7 +28,7 @@ pip install llm-context-compressor
 Or copy the single file:
 
 ```bash
-curl -O https://raw.githubusercontent.com/barszcz/llm-context-compressor/main/context_compressor.py
+curl -O https://raw.githubusercontent.com/lmxmxs/llm-context-compressor/main/context_compressor.py
 ```
 
 ---
