@@ -91,6 +91,23 @@ print(f"Compression: {ratio:.1%} of original")  # e.g. "Compression: 23.4% of or
 
 ---
 
+## GUI (dark theme)
+
+A standalone desktop interface — no server, no config, just run:
+
+```bash
+pip install PyQt6
+python gui.py
+```
+
+Features:
+- **Three modes**: Q&A Pairs · Smart Truncate · Sources
+- **Compression ratio meter** — color-coded: green / amber / red
+- **File open & save** — drag in any `.json` or `.txt`
+- **Keyboard shortcuts**: `Ctrl+Enter` compress · `Ctrl+O` open · `Ctrl+S` save · `Ctrl+Shift+C` copy output
+
+---
+
 ## CLI
 
 ```bash
